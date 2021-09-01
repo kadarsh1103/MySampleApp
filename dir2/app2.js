@@ -1,0 +1,1 @@
+console.log(" Inside app2.js");
